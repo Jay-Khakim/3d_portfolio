@@ -3,6 +3,7 @@
 
 > This website can be used as porfolio for web app developers. Showcasing his/her background works, strong sides, feedbacks from others and contact information. 
 
+> Demo web site: https://jay-khakim.github.io/3d_portfolio/
 
 1. ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model ✅            
 2. React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React ✅          
