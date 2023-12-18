@@ -18,37 +18,37 @@
 
 ## 1. Main UI
 
-![image_2023-11-30_15-10-45](https://github.com/Jay-Khakim/myldb/assets/68965155/379f31b0-c229-4bc8-90aa-15c21a0de313)
+![image](https://github.com/Jay-Khakim/3d_portfolio/assets/68965155/887e3b3d-7c51-4428-b254-4a3e7e2fbe56)
+
 
 
 ---
 
 ## 2. About
 
-**Add button lets user to add new Book. 
+![image](https://github.com/Jay-Khakim/3d_portfolio/assets/68965155/a62253da-73f4-4827-a0d0-e4bbc93acb0e)
 
-![image](https://github.com/Jay-Khakim/myldb/assets/68965155/e3ff5fff-98d6-41cc-8eaf-ade7e5cda732)
 
 
 ---
 
 ## 3. Work section
 
-**When editted, the previous data still stays for user convenience to ease change needed part. After *Update* button is clicked, the UI changes to normal automatically. **
+![image](https://github.com/Jay-Khakim/3d_portfolio/assets/68965155/a688b871-93f2-4b6a-a49e-550c721e4bec)
 
-![image](https://github.com/Jay-Khakim/myldb/assets/68965155/83beb151-14c7-42b3-90cd-cab183f10d01)
 
 ---
 
 ## 4. Contant section
-** In Quotes page user can add quotes and also delete
 
-![image](https://github.com/Jay-Khakim/myldb/assets/68965155/edd92417-cf8c-4dbc-b844-1614182685ca)
+![image](https://github.com/Jay-Khakim/3d_portfolio/assets/68965155/690359d2-37be-49cc-990f-ad17e783f030)
+
 
 ---
 
 ## 5. Testimonials section
-** In Quotes page user can add quotes and also delete
 
-![image](https://github.com/Jay-Khakim/myldb/assets/68965155/edd92417-cf8c-4dbc-b844-1614182685ca)
+
+![image](https://github.com/Jay-Khakim/3d_portfolio/assets/68965155/66330dee-ac31-4713-ba2a-c057fb728e73)
+
 
